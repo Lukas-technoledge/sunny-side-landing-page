@@ -1,0 +1,309 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container1 {
+  color: white;
+  background: url(./sunnyside-agency-landing-page-main/images/mobile/image-header.jpg)
+    no-repeat center center/cover;
+  background-size: cover;
+  height: 1100px;
+  width: auto;
+}
+.hero {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.hero2 ul {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.hero2 ul li {
+  list-style: none;
+  margin: 15px;
+}
+.sp {
+  border: 1px white solid;
+  background-color: white;
+  color: black;
+  border-radius: 30px;
+  margin-left: 30px;
+}
+.sp li {
+  margin-left: 0px;
+}
+.sub-hero {
+  display: flex;
+  justify-content: center;
+  padding-top: 35px;
+}
+.sub-hero p {
+  padding-top: 400px;
+  font-size: 50px;
+}
+.hero-img {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.hero-img img {
+  padding-top: 130px;
+}
+.container2 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: -5px;
+}
+.heroA {
+  padding: 200px 130px;
+}
+.heroA h2 {
+  padding-bottom: 30px;
+  font-size: 35px;
+}
+.heroA p {
+  font-size: 15px;
+  padding-bottom: 30px;
+}
+.heroA-sub a {
+  text-decoration: none;
+  color: black;
+  font-size: 10px;
+}
+.container3 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.heroA-img img {
+  height: 563px;
+}
+.heroB-img img {
+  height: 560px;
+}
+.heroB {
+  padding: 170px 130px;
+}
+.heroB h2 {
+  padding-bottom: 30px;
+  font-size: 35px;
+}
+.heroB p {
+  padding-bottom: 30px;
+  font-size: 15px;
+}
+.heroB a {
+  text-decoration: none;
+  color: black;
+  font-size: 10px;
+}
+.container4 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: -4px;
+}
+.heroC1 {
+  background: url(./sunnyside-agency-landing-page-main/images/mobile/image-graphic-design.jpg)
+    no-repeat center center/cover;
+  width: 700px;
+  height: 200px;
+  background-image: ;
+  padding-top: 400px;
+}
+.hc1 {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 0px;
+}
+.hc1p p {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 40px 180px;
+}
+.hc2 {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 0px;
+}
+.hc2p p {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 40px 180px;
+}
+.heroC2 {
+  background: url(./sunnyside-agency-landing-page-main/images/mobile/image-photography.jpg)
+    no-repeat center center/cover;
+  width: 700px;
+  height: 200px;
+  padding-top: 400px;
+}
+.container5 {
+  background: white;
+}
+.heroD {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  font-size: 25px;
+  color: gray;
+}
+.heroD1 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+.hD1 {
+  margin: 0px;
+  padding: 20px;
+}
+.hD1 img {
+  border-radius: 70px;
+}
+.hD1img {
+  display: flex;
+  justify-content: space-around;
+}
+.hD1p {
+  margin-top: 30px;
+}
+.hD1p p {
+  text-align: center;
+}
+.hD1f {
+  margin-top: 30px;
+}
+.f1 {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 10px;
+}
+.f2 {
+  display: flex;
+  justify-content: space-around;
+}
+.f2 p {
+  color: gray;
+}
+.hD2 {
+  margin: 0px;
+  padding: 20px;
+}
+.hD2 img {
+  border-radius: 70px;
+}
+.hD2img {
+  display: flex;
+  justify-content: space-around;
+}
+.hD2p {
+  margin-top: 30px;
+}
+.hD2p p {
+   text-align: center;
+}
+.hD2f {
+  margin-top: 30px;
+}
+.v1 {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 10px;
+}
+.v2 {
+  display: flex;
+  justify-content: space-around;
+}
+.v2 p {
+  color: gray;
+}
+.hD3 {
+  margin: 0px;
+  padding: 20px;
+}
+.hD3 img {
+  border-radius: 70px;
+}
+.hD3img {
+  display: flex;
+  justify-content: space-around;
+}
+.hD3p {
+  margin-top: 30px;
+}
+.hD3p p {
+  text-align: center;
+}
+.hD3f {
+  margin-top: 30px;
+}
+.w1 {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 10px;
+}
+.w2 {
+  display: flex;
+  justify-content: space-around;
+}
+.w2 p {
+  color: gray;
+}
+.container6 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+.con1 img {
+  height: 400px;
+  width: 340px;
+}
+.con2 img {
+  height: 400px;
+  width: 340px;
+}
+.con3 img {
+  height: 400px;
+  width: 339px;
+}
+.con4 img {
+  height: 400px;
+  width: 330px;
+}
+.container7 {
+  background: turquoise;
+  margin-top: -4px;
+}
+.wrap1 p {
+  padding-top: 25px;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-around;
+  color: rgb(24, 139, 24);
+}
+.wrap2 {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.wrap2 ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+.wrap2 li {
+  padding-left: 20px;
+  color: teal;
+}
+.wrap3 {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+}
